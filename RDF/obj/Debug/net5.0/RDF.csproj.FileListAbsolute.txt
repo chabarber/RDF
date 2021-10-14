@@ -1,0 +1,16 @@
+C:\Users\Chase\Desktop\RDF\bin\Debug\net5.0\RDF.exe
+C:\Users\Chase\Desktop\RDF\bin\Debug\net5.0\RDF.deps.json
+C:\Users\Chase\Desktop\RDF\bin\Debug\net5.0\RDF.runtimeconfig.json
+C:\Users\Chase\Desktop\RDF\bin\Debug\net5.0\RDF.runtimeconfig.dev.json
+C:\Users\Chase\Desktop\RDF\bin\Debug\net5.0\RDF.dll
+C:\Users\Chase\Desktop\RDF\bin\Debug\net5.0\ref\RDF.dll
+C:\Users\Chase\Desktop\RDF\bin\Debug\net5.0\RDF.pdb
+C:\Users\Chase\Desktop\RDF\obj\Debug\net5.0\RDF.csprojAssemblyReference.cache
+C:\Users\Chase\Desktop\RDF\obj\Debug\net5.0\RDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chase\Desktop\RDF\obj\Debug\net5.0\RDF.AssemblyInfoInputs.cache
+C:\Users\Chase\Desktop\RDF\obj\Debug\net5.0\RDF.AssemblyInfo.cs
+C:\Users\Chase\Desktop\RDF\obj\Debug\net5.0\RDF.csproj.CoreCompileInputs.cache
+C:\Users\Chase\Desktop\RDF\obj\Debug\net5.0\RDF.dll
+C:\Users\Chase\Desktop\RDF\obj\Debug\net5.0\ref\RDF.dll
+C:\Users\Chase\Desktop\RDF\obj\Debug\net5.0\RDF.pdb
+C:\Users\Chase\Desktop\RDF\obj\Debug\net5.0\RDF.genruntimeconfig.cache
